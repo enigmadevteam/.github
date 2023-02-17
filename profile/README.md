@@ -1,4 +1,17 @@
-## Hi there 👋
+# Enigma Group GitHub Page 👋
+
+## Stack Technology
+
+Below is a general stack of technologies used in Enigma.
+
+| Technology | Category |
+| ------ | ------ |
+| **Vue.js** | JavaScript Frontend Framework |
+| **React.js** | JavaScript Frontend Framework |
+| **Dart** | Flutter Cross-Platform Mobile Development |
+| **Django Rest Framework** | Python Backend Framework |
+| **Spring** | Java Backend Framework |
+| **Solidity** | Smart-Contract Technology |
 
 <!--
 
