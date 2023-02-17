@@ -1,4 +1,4 @@
-# Enigma Group GitHub Page 👋
+# Enigma Group GitHub Page
 
 ## Stack Technology
 
@@ -12,6 +12,13 @@ Below is a general stack of technologies used in Enigma.
 | **Django Rest Framework** | Python Backend Framework |
 | **Spring** | Java Backend Framework |
 | **Solidity** | Smart-Contract Technology |
+
+## Main areas
+- Development of crypto projects
+- Development of high-load projects
+- Mobile and Web application development
+- Analytics and testing
+
 
 <!--
 
